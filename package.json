@@ -83,7 +83,7 @@
       "semver": "7.5.4"
     },
     "glob-stream": {
-      "glob-parent": "5.1.2"
+      "glob-parent": "6.0.2"
     }
   },
   "scripts": {
